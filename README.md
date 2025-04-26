@@ -1,6 +1,7 @@
 # Real-Time Customer Behavior Analysis Pipeline
-![architecture_diagram](https://github.com/user-attachments/assets/aebdc382-4d57-49ba-9bb4-fdc5e85187ca)
 
+
+![architecture_diagram_](https://github.com/user-attachments/assets/614baaf7-8d6a-4ab4-a4e4-8f662c6a62a6)
 
 
 
